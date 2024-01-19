@@ -10,8 +10,8 @@
 .start-panel__grid {
     display: grid;
     grid-template-areas: 
-    "office other ."
-    "web other .";
+    "office other"
+    "web other";
     grid-auto-rows: auto;
     gap: 0.5em;
 }
