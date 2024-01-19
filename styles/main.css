@@ -39,8 +39,8 @@
     grid-row: span 1;
 }
 .app--off-3 {
-    grid-column: -5 / -4;
-    grid-row: 3 / span 1;
+    grid-column: 3 / 4;
+    grid-row: 3 / 4;
 }
 .app--off-4 {
     grid-column: 5 / 7;
